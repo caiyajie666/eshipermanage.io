@@ -1,6 +1,6 @@
 {
-    "name": "test0704",
-    "short_name": "test0704",
+    "name": "eshipermanage",
+    "short_name": "eshipermanage",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
