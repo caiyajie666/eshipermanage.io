@@ -95138,7 +95138,7 @@ var $async$mr=A.D(function(a,b){if(a===1)return A.z(b,r)
 while(true)switch(s){case 0:h=t.z
 A.aNO(null,null,"loading...",h)
 p=$.BK
-p=(p==null?$.BK=A.aGe():p).u4(0,"http://open.eshiper.com/","BaseData/Country")
+p=(p==null?$.BK=A.aGe():p).u4(0,"https://open.eztao.net/","BaseData/Country")
 s=2
 return A.J(t.L0.b(p)?p:A.eB(p,h),$async$mr)
 case 2:o=b
